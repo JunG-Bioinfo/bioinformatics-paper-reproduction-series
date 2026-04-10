@@ -1,6 +1,6 @@
 # 01 - 迁移体相关基因在胃癌中的预后模型复刻
 
-> 原文：Identification of migrasome-related prognostic genes and construction of a prognostic model in gastric cancer. *Onco Targets and Therapy*, 2025.
+> 原文：Migrasome-Related Prognostic Genes in Gastric Cancer: A Transcriptomic and Immunotherapeutic Analysis. 2025.
 
 ---
 
