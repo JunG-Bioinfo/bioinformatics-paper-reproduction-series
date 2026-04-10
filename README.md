@@ -10,7 +10,7 @@ Step-by-step reproduction of published bioinformatics papers (TCGA/GEO/单细胞
 
 | 编号 | 文献主题 | 期刊/年份 | 分析方法 | 状态 |
 |:---:|---------|----------|---------|:----:|
-| 01 | 迁移体相关基因在胃癌中的预后模型 | *Onco Targets Ther*, 2025 | TCGA差异分析、LASSO、Cox回归、生存分析 | ✅ 已完成（Day1-21） |
+| 01 | 迁移体相关基因在胃癌中的预后模型 | *Onco Targets Ther*, 2025 | TCGA差异分析、LASSO、Cox回归、生存分析 | 🔄 进行中（Day1-21） |
 | 02 | 铁死亡相关lncRNA在乳腺癌中的预后价值 | *Front Immunol*, 2024 | 多数据集验证、免疫浸润、ceRNA网络 | 🔄 进行中 |
 | 03 | ... | ... | ... | ⏳ 计划中 |
 
